@@ -20,7 +20,7 @@ Download MNIST training data and its labels from [here](http://yann.lecun.com/ex
 train-images-idx3-ubyte.gz:  training set images (9912422 bytes) <br/>
 train-labels-idx1-ubyte.gz:  training set labels (28881 bytes) <br/>
 
-Place <em>train-images-idx3-ubyte</em> and <em>train-labels-idx1-ubyte</em> in the same directory as this project
+Place "<em>train-images-idx3-ubyte</em>" and "<em>train-labels-idx1-ubyte</em>" in the same directory as this project
 
 ```
 $ python cnn.py
