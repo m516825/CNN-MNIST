@@ -2,6 +2,7 @@ Convolution Neural Network
 ===
 This is a MNIST number recognition problem solved by a convolution neural network model. <br />
 Implement by tensorflow 0.11
+![MNIST](https://github.com/m516825/CNN-MNIST/blob/master/img.png)
 <br/>
 <br/>
 ## Requirement
