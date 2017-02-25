@@ -36,3 +36,7 @@ Train/Dev: 60000/2000
 
 ## Prediction
 This code will automatically dump the prediction output of the <em>test-image</em>
+<br/>
+<br/>
+<br/>
+TODO: image distortion
