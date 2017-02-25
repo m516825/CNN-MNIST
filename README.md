@@ -1,7 +1,6 @@
 Convolution Neural Network
 ===
-This is a MNIST number recognition problem solved by a <br />
-convolution neural network. <br />
+This is a MNIST number recognition problem solved by a convolution neural network model. <br />
 Implement by tensorflow 0.11
 <br/>
 <br/>
